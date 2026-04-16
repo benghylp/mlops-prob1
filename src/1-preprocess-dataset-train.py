@@ -3,6 +3,7 @@ import pandas as pd
 import sklearn.metrics as metrics
 import os
 
+#Se optimizó el codigo de preprocesamiento
 
 class PreprocessData:
     _output_path = ""
